@@ -1,4 +1,5 @@
 # JAVA_SOKOBAN
+![sreenshot](sokoban_screenshot.png)
 
 Une reprise du code sce de janbodnar que vous pourrez trouver ICI: https://github.com/janbodnar/Java-Sokoban-Game.
 
